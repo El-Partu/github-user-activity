@@ -1,0 +1,24 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Partu/github-user-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/El-Partu/github-user-activity/issues"
+  },
+  "homepage": "https://github.com/El-Partu/github-user-activity#readme",
+  "bin":{
+    "github-activity":"src/index.js"
+  }
+}
