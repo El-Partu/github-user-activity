@@ -1,5 +1,5 @@
 # GITHUB USER ACTIVITY
-This is a simple commandLine application that displays the activity of a particular activity of any github user account.
+This is a simple commandLine application that displays the activity of any github user account.
 project-Link: https://roadmap.sh/projects/github-user-activity
 
 ### STEPS TO GET APPLICATION WORKING
